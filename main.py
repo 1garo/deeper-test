@@ -11,8 +11,6 @@ obj = json.loads(data)
 ord_obj = OrderedDict()
 ord_obj  = obj
 ordered_object = sorted(ord_obj, key=lambda x: x["priority"])
-# print(ordered_object)
-# print(type(OrderedDict(obj[0])))
 res_managers = {} 
 res_watchers = {}
 for i in ordered_object:
@@ -23,15 +21,6 @@ for i in ordered_object:
         i["name"]: i["watchers"]
     })
 
-  # print("{}\n".format(i["name"]))
-
-# a = {
-#     i.name: managers
-# }
-
-# b = {
-#     i["name"]: watchers 
-# }
 with open("managers.json", "w") as fout: 
     json.dump(res_managers, fout, indent=4)
 
