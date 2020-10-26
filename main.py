@@ -27,7 +27,7 @@ res_m = defaultdict(list)
 res_w = defaultdict(list)
 for key, val in sorted(res_managers.items()):
     res_m[val[0]].append(key)
-for key, val in sorted(res_managers.items()):
+for key, val in sorted(res_watchers.items()):
     res_w[val[0]].append(key)
 
 with open("managers.json", "w") as fout: 

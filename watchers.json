@@ -1,30 +1,10 @@
 {
-    "victor-mgr": [
+    "csaftoiu": [
         "Android Camera App rrocha",
-        "bg deep checkers rvalentim",
-        "bg deep learning aporto",
-        "mateus silva bg deep checkers",
-        "tourney site ariel",
-        "tourney site famador",
-        "tourney site tbarbalho"
-    ],
-    "luanda": [
-        "Annotations"
-    ],
-    "morris": [
-        "Deepgammon",
+        "Annotations",
         "Runningball Parser",
-        "sportsparsers - 22bet",
-        "sportsparsers - betway",
-        "sportsparsers - esportscalendar",
-        "sportsparsers - gg.bet",
-        "sportsparsers - matchbook",
-        "sportsparsers - tipster.de",
-        "sportsparsers - unibet",
-        "sportsparsers - unikrn"
-    ],
-    "merlin": [
         "Unity Render Passport Text [Template]",
+        "[BG-CLUB-SITE] frontend",
         "[CHATBOT] merlin",
         "[CHATBOT] rodrigo",
         "[CHESS] Live Demo Executive",
@@ -39,26 +19,40 @@
         "[IOS-APPS] IOS PI app",
         "[IOS-APPS] IOS streaming app",
         "[Web] pm-site",
+        "bg deep checkers rvalentim",
+        "bg deep learning aporto",
         "chess board finder eliaquim",
+        "mateus silva bg deep checkers",
+        "morris bg data gathering",
         "python training alysson",
         "python training lucas",
+        "sportsparsers - 22bet",
+        "sportsparsers - betway",
+        "sportsparsers - esportscalendar",
+        "sportsparsers - gg.bet",
+        "sportsparsers - matchbook",
+        "sportsparsers - tipster.de",
+        "sportsparsers - unibet",
+        "sportsparsers - unikrn",
+        "tourney site ariel",
+        "tourney site famador",
+        "tourney site tbarbalho",
         "unity render diff passport text - kennedy"
     ],
-    "ariel": [
-        "[BG-CLUB-SITE] frontend"
-    ],
-    "csaftoiu": [
+    "merlin": [
+        "Deepgammon",
         "[CV] [Qt] OpenCV GUI",
-        "[OCR] tesseract MRZ reading ",
         "[template] unity render passport text",
-        "matchbook parser - mfilho",
-        "sportsparsers - pinnacle API",
+        "unity render diff passport text artur",
         "unity render different passport text"
     ],
-    "victor": [
-        "morris bg data gathering"
-    ],
     "arturc": [
-        "unity render diff passport text artur"
+        "[OCR] tesseract MRZ reading "
+    ],
+    "jpfarias": [
+        "matchbook parser - mfilho"
+    ],
+    "Alex": [
+        "sportsparsers - pinnacle API"
     ]
 }
