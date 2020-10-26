@@ -1,207 +1,64 @@
 {
-    "Annotations": [
-        "csaftoiu",
-        "merlin",
-        "victor"
+    "victor-mgr": [
+        "Android Camera App rrocha",
+        "bg deep checkers rvalentim",
+        "bg deep learning aporto",
+        "mateus silva bg deep checkers",
+        "tourney site ariel",
+        "tourney site famador",
+        "tourney site tbarbalho"
     ],
-    "[EXECUTIVE] Merlin": [
-        "csaftoiu",
-        "jpfarias",
-        "merlin",
-        "morris"
+    "luanda": [
+        "Annotations"
     ],
-    "sportsparsers - 22bet": [
-        "csaftoiu",
-        "merlin"
+    "morris": [
+        "Deepgammon",
+        "Runningball Parser",
+        "sportsparsers - 22bet",
+        "sportsparsers - betway",
+        "sportsparsers - esportscalendar",
+        "sportsparsers - gg.bet",
+        "sportsparsers - matchbook",
+        "sportsparsers - tipster.de",
+        "sportsparsers - unibet",
+        "sportsparsers - unikrn"
     ],
-    "sportsparsers - esportscalendar": [
-        "csaftoiu",
-        "merlin"
+    "merlin": [
+        "Unity Render Passport Text [Template]",
+        "[CHATBOT] merlin",
+        "[CHATBOT] rodrigo",
+        "[CHESS] Live Demo Executive",
+        "[EXECUTIVE] Merlin",
+        "[HR] Candidate tests",
+        "[ID-VERIFY-PIPELINE] Background evaluator",
+        "[ID-VERIFY-PIPELINE] Passport finder",
+        "[ID-VERIFY-PIPELINE] finger detector",
+        "[INHOUSE-TOOLS] Annotators app",
+        "[INHOUSE-TOOLS] NN-Webapp",
+        "[INHOUSE-TOOLS] NN-Webapp 2",
+        "[IOS-APPS] IOS PI app",
+        "[IOS-APPS] IOS streaming app",
+        "[Web] pm-site",
+        "chess board finder eliaquim",
+        "python training alysson",
+        "python training lucas",
+        "unity render diff passport text - kennedy"
     ],
-    "morris bg data gathering": [
-        "csaftoiu",
-        "morris"
+    "ariel": [
+        "[BG-CLUB-SITE] frontend"
     ],
-    "sportsparsers - unikrn": [
-        "csaftoiu",
-        "merlin"
+    "csaftoiu": [
+        "[CV] [Qt] OpenCV GUI",
+        "[OCR] tesseract MRZ reading ",
+        "[template] unity render passport text",
+        "matchbook parser - mfilho",
+        "sportsparsers - pinnacle API",
+        "unity render different passport text"
     ],
-    "Deepgammon": [
-        "merlin",
-        "victor"
+    "victor": [
+        "morris bg data gathering"
     ],
-    "Runningball Parser": [
-        "csaftoiu",
-        "merlin"
-    ],
-    "sportsparsers - unibet": [
-        "csaftoiu",
-        "merlin"
-    ],
-    "[Web] pm-site": [
-        "csaftoiu",
-        "jpfarias",
-        "morris"
-    ],
-    "sportsparsers - tipster.de": [
-        "csaftoiu",
-        "merlin"
-    ],
-    "sportsparsers - betway": [
-        "csaftoiu",
-        "merlin"
-    ],
-    "sportsparsers - gg.bet": [
-        "csaftoiu",
-        "merlin"
-    ],
-    "sportsparsers - pinnacle API": [
-        "Alex",
-        "csaftoiu",
-        "morris"
-    ],
-    "sportsparsers - matchbook": [
-        "csaftoiu",
-        "merlin"
-    ],
-    "[OCR] tesseract MRZ reading ": [
-        "arturc",
-        "merlin"
-    ],
-    "[ID-VERIFY-PIPELINE] finger detector": [
-        "csaftoiu",
-        "jpfarias",
-        "morris"
-    ],
-    "[CHESS] Live Demo Executive": [
-        "csaftoiu",
-        "morris"
-    ],
-    "[INHOUSE-TOOLS] NN-Webapp": [
-        "csaftoiu",
-        "jpfarias",
-        "merlin",
-        "morris"
-    ],
-    "[INHOUSE-TOOLS] Annotators app": [
-        "csaftoiu",
-        "jpfarias",
-        "morris"
-    ],
-    "unity render diff passport text artur": [
-        "merlin",
-        "morris"
-    ],
-    "[CV] [Qt] OpenCV GUI": [
-        "merlin",
-        "morris"
-    ],
-    "python training lucas": [
-        "csaftoiu",
-        "morris"
-    ],
-    "python training alysson": [
-        "csaftoiu",
-        "morris"
-    ],
-    "unity render different passport text": [
-        "merlin",
-        "morris"
-    ],
-    "[template] unity render passport text": [
-        "merlin",
-        "morris"
-    ],
-    "unity render diff passport text - kennedy": [
-        "csaftoiu",
-        "merlin",
-        "morris"
-    ],
-    "Unity Render Passport Text [Template]": [
-        "csaftoiu",
-        "merlin",
-        "morris"
-    ],
-    "mateus silva bg deep checkers": [
-        "csaftoiu",
-        "merlin"
-    ],
-    "Android Camera App rrocha": [
-        "csaftoiu",
-        "merlin"
-    ],
-    "bg deep learning aporto": [
-        "csaftoiu",
-        "merlin"
-    ],
-    "bg deep checkers rvalentim": [
-        "csaftoiu",
-        "merlin"
-    ],
-    "tourney site famador": [
-        "csaftoiu",
-        "merlin"
-    ],
-    "chess board finder eliaquim": [
-        "csaftoiu",
-        "victor-mgr"
-    ],
-    "tourney site ariel": [
-        "csaftoiu",
-        "merlin"
-    ],
-    "tourney site tbarbalho": [
-        "csaftoiu",
-        "merlin"
-    ],
-    "[IOS-APPS] IOS streaming app": [
-        "csaftoiu",
-        "jpfarias",
-        "morris"
-    ],
-    "[IOS-APPS] IOS PI app": [
-        "csaftoiu",
-        "jpfarias",
-        "morris"
-    ],
-    "[HR] Candidate tests": [
-        "csaftoiu",
-        "jpfarias",
-        "morris"
-    ],
-    "[CHATBOT] merlin": [
-        "csaftoiu",
-        "jpfarias",
-        "morris"
-    ],
-    "[ID-VERIFY-PIPELINE] Background evaluator": [
-        "csaftoiu",
-        "jpfarias",
-        "morris"
-    ],
-    "[ID-VERIFY-PIPELINE] Passport finder": [
-        "csaftoiu",
-        "jpfarias",
-        "morris"
-    ],
-    "[CHATBOT] rodrigo": [
-        "csaftoiu",
-        "jpfarias",
-        "morris"
-    ],
-    "[BG-CLUB-SITE] frontend": [
-        "csaftoiu",
-        "jpfarias",
-        "morris"
-    ],
-    "[INHOUSE-TOOLS] NN-Webapp 2": [
-        "csaftoiu",
-        "jpfarias",
-        "merlin",
-        "morris"
-    ],
-    "matchbook parser - mfilho": [
-        "jpfarias",
-        "merlin"
+    "arturc": [
+        "unity render diff passport text artur"
     ]
 }

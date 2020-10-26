@@ -1,144 +1,64 @@
 {
-    "Annotations": [
-        "luanda"
+    "victor-mgr": [
+        "Android Camera App rrocha",
+        "bg deep checkers rvalentim",
+        "bg deep learning aporto",
+        "mateus silva bg deep checkers",
+        "tourney site ariel",
+        "tourney site famador",
+        "tourney site tbarbalho"
     ],
-    "[EXECUTIVE] Merlin": [
-        "merlin"
+    "luanda": [
+        "Annotations"
     ],
-    "sportsparsers - 22bet": [
-        "morris"
+    "morris": [
+        "Deepgammon",
+        "Runningball Parser",
+        "sportsparsers - 22bet",
+        "sportsparsers - betway",
+        "sportsparsers - esportscalendar",
+        "sportsparsers - gg.bet",
+        "sportsparsers - matchbook",
+        "sportsparsers - tipster.de",
+        "sportsparsers - unibet",
+        "sportsparsers - unikrn"
     ],
-    "sportsparsers - esportscalendar": [
-        "morris"
+    "merlin": [
+        "Unity Render Passport Text [Template]",
+        "[CHATBOT] merlin",
+        "[CHATBOT] rodrigo",
+        "[CHESS] Live Demo Executive",
+        "[EXECUTIVE] Merlin",
+        "[HR] Candidate tests",
+        "[ID-VERIFY-PIPELINE] Background evaluator",
+        "[ID-VERIFY-PIPELINE] Passport finder",
+        "[ID-VERIFY-PIPELINE] finger detector",
+        "[INHOUSE-TOOLS] Annotators app",
+        "[INHOUSE-TOOLS] NN-Webapp",
+        "[INHOUSE-TOOLS] NN-Webapp 2",
+        "[IOS-APPS] IOS PI app",
+        "[IOS-APPS] IOS streaming app",
+        "[Web] pm-site",
+        "chess board finder eliaquim",
+        "python training alysson",
+        "python training lucas",
+        "unity render diff passport text - kennedy"
     ],
-    "morris bg data gathering": [
-        "victor"
+    "ariel": [
+        "[BG-CLUB-SITE] frontend"
     ],
-    "sportsparsers - unikrn": [
-        "morris"
+    "csaftoiu": [
+        "[CV] [Qt] OpenCV GUI",
+        "[OCR] tesseract MRZ reading ",
+        "[template] unity render passport text",
+        "matchbook parser - mfilho",
+        "sportsparsers - pinnacle API",
+        "unity render different passport text"
     ],
-    "Deepgammon": [
-        "morris"
+    "victor": [
+        "morris bg data gathering"
     ],
-    "Runningball Parser": [
-        "morris"
-    ],
-    "sportsparsers - unibet": [
-        "morris"
-    ],
-    "[Web] pm-site": [
-        "merlin"
-    ],
-    "sportsparsers - tipster.de": [
-        "morris"
-    ],
-    "sportsparsers - betway": [
-        "morris"
-    ],
-    "sportsparsers - gg.bet": [
-        "morris"
-    ],
-    "sportsparsers - pinnacle API": [
-        "csaftoiu"
-    ],
-    "sportsparsers - matchbook": [
-        "morris"
-    ],
-    "[OCR] tesseract MRZ reading ": [
-        "csaftoiu"
-    ],
-    "[ID-VERIFY-PIPELINE] finger detector": [
-        "merlin"
-    ],
-    "[CHESS] Live Demo Executive": [
-        "merlin"
-    ],
-    "[INHOUSE-TOOLS] NN-Webapp": [
-        "merlin"
-    ],
-    "[INHOUSE-TOOLS] Annotators app": [
-        "merlin"
-    ],
-    "unity render diff passport text artur": [
-        "arturc",
-        "csaftoiu"
-    ],
-    "[CV] [Qt] OpenCV GUI": [
-        "csaftoiu",
-        "merlin"
-    ],
-    "python training lucas": [
-        "merlin"
-    ],
-    "python training alysson": [
-        "merlin"
-    ],
-    "unity render different passport text": [
-        "csaftoiu"
-    ],
-    "[template] unity render passport text": [
-        "csaftoiu"
-    ],
-    "unity render diff passport text - kennedy": [
-        "merlin"
-    ],
-    "Unity Render Passport Text [Template]": [
-        "merlin"
-    ],
-    "mateus silva bg deep checkers": [
-        "victor-mgr"
-    ],
-    "Android Camera App rrocha": [
-        "victor-mgr"
-    ],
-    "bg deep learning aporto": [
-        "victor-mgr"
-    ],
-    "bg deep checkers rvalentim": [
-        "victor-mgr"
-    ],
-    "tourney site famador": [
-        "victor-mgr"
-    ],
-    "chess board finder eliaquim": [
-        "merlin"
-    ],
-    "tourney site ariel": [
-        "victor-mgr"
-    ],
-    "tourney site tbarbalho": [
-        "victor-mgr"
-    ],
-    "[IOS-APPS] IOS streaming app": [
-        "merlin"
-    ],
-    "[IOS-APPS] IOS PI app": [
-        "merlin"
-    ],
-    "[HR] Candidate tests": [
-        "merlin"
-    ],
-    "[CHATBOT] merlin": [
-        "merlin"
-    ],
-    "[ID-VERIFY-PIPELINE] Background evaluator": [
-        "merlin"
-    ],
-    "[ID-VERIFY-PIPELINE] Passport finder": [
-        "merlin"
-    ],
-    "[CHATBOT] rodrigo": [
-        "merlin"
-    ],
-    "[BG-CLUB-SITE] frontend": [
-        "ariel",
-        "merlin"
-    ],
-    "[INHOUSE-TOOLS] NN-Webapp 2": [
-        "merlin"
-    ],
-    "matchbook parser - mfilho": [
-        "csaftoiu",
-        "morris"
+    "arturc": [
+        "unity render diff passport text artur"
     ]
 }

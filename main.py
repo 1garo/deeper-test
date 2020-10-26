@@ -2,7 +2,9 @@
 # 1 higher
 # 100 lower
 import json
-from collections import OrderedDict
+import itertools
+from operator import itemgetter
+from collections import OrderedDict, defaultdict
 
 with open('source_file_2.json', 'r') as myfile:
     data=myfile.read()
@@ -21,8 +23,15 @@ for i in ordered_object:
         i["name"]: i["watchers"]
     })
 
+res_m = defaultdict(list)
+res_w = defaultdict(list)
+for key, val in sorted(res_managers.items()):
+    res_m[val[0]].append(key)
+for key, val in sorted(res_managers.items()):
+    res_w[val[0]].append(key)
+
 with open("managers.json", "w") as fout: 
-    json.dump(res_managers, fout, indent=4)
+    json.dump(res_m, fout, indent=4)
 
 with open("watchers.json", "w") as fout: 
-    json.dump(res_watchers, fout, indent=4)
+    json.dump(res_w, fout, indent=4)
